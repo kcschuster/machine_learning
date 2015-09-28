@@ -1,6 +1,5 @@
 # machine_learning
 Various machine learning methods applied to classification problems.  
-(Originally wrote these scripts to complete assignments in a machine learning course.)
 
 **digit_classifier.R**
 
