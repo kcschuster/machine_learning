@@ -3,6 +3,7 @@ Various machine learning methods applied to classification problems.
 
 **digit_classifier.R**
 
-- Uses linear SVMs with k-fold cross-validation to identify digits based on pixel information.  
-- Works with training and test sets found here: https://www.kaggle.com/c/digit-recognizer/data
-- Data assumed to be in .csv format.
+- Classifies handwritten digits 0-9 based on pixel information.
+- Uses linear SVMs with 10-fold cross-validation to determine the optimal cost model parameter. 
+- Sets aside portion of training data for validation, then classifies testing data.
+- Currently, training and testing data assumed to be in a Matlab file; can be modified to take .csv files (https://www.kaggle.com/c/digit-recognizer/data)
