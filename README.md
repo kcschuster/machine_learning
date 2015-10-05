@@ -1,7 +1,12 @@
 # machine_learning
-Various machine learning methods applied to classification problems.  
+Demonstrates a variety of machine learning methods:
+  - SVMs
+  - Linear regression (coming soon)
+  - Logistic regression (coming soon)
 
-**digit_classifier.R**
+Note:  These scripts are for educational purposes only; I cannot guarantee they are entirely correct.
+
+**SVMs ---  digit_classifier.R**
 
 - Classifies handwritten digits 0-9 based on pixel information.
 - Uses linear SVMs with 10-fold cross-validation to determine the optimal cost model parameter. 
