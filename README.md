@@ -4,9 +4,9 @@ Scripts to demonstrate a variety of machine learning methods:
   - Linear regression (coming soon)
   - Logistic regression (coming soon)
 
-Note:  These scripts are for educational purposes only; I cannot guarantee they are entirely correct.
+Note:  These scripts are for educational purposes only.
 
-**SVMs ---  digit_classifier.R**
+**SVMs:  digit_classifier.R**
 
 - Classifies handwritten digits 0-9 based on pixel information.
 - Uses linear SVMs with 10-fold cross-validation to determine the optimal cost model parameter. 
