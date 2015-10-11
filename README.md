@@ -13,3 +13,9 @@ Note:  These scripts are for educational purposes only.
 - Sets aside portion of training data for validation, then classifies testing data.
 - Uses a software package for SVM, but manually implements k-fold cross-validation.
 - Currently, training and testing data assumed to be in a Matlab file; can be modified to take .csv files (https://www.kaggle.com/c/digit-recognizer/data)
+
+**Linear Regression: housing_values.R**
+
+
+
+**Logistic Regression: spam_filter.R**
