@@ -19,7 +19,7 @@ Note:  These scripts are for educational purposes only.
 > **housing_values.R**
 
 - Performs linear regression on housing data to predict home values.
-- Data set found [here](http://lib.stat.cmu.edu/datasets/) ("houses.zip")
+- Data set found [here](http://lib.stat.cmu.edu/datasets/) ("houses.zip").
 
 
 **Logistic Regression**
