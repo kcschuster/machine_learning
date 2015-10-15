@@ -1,7 +1,7 @@
 # machine_learning
 Scripts to demonstrate a variety of machine learning methods:
   - SVMs
-  - Linear regression (coming soon)
+  - Linear regression 
   - Logistic regression (coming soon)
 
 Note:  These scripts are for educational purposes only.
